@@ -1,0 +1,32 @@
+Desenvolvimento de Sistema de Locadora de Jogos com C# Forms e Banco de Dados
+Funcionalidades do Sistema
+O sistema desenvolvido apresenta as seguintes funcionalidades:
+
+Cadastro de Jogos:
+
+Permite adicionar novos jogos ao acervo da locadora, incluindo informações como título, plataforma, gênero, classificação, entre outros.
+Opções de procurar, alterar, incluir e excluir jogos do acervo.
+Gestão de Gêneros de Jogos:
+
+Possui uma tela para criar e gerenciar os diferentes gêneros de jogos disponíveis na locadora.
+Opções de procurar, alterar, incluir e excluir gêneros de jogos.
+Gestão de Clientes:
+
+Permite o cadastro e atualização de dados dos clientes que utilizam os serviços da locadora, incluindo informações de contato e histórico de locações.
+Opções de procurar, alterar, incluir e excluir clientes.
+Controle de Locações:
+
+Registro e monitoramento das locações de jogos pelos clientes, incluindo prazos, valores e status.
+Opções de procurar, alterar, incluir e excluir locações, com a opção de imprimir recibo.
+Devolução de Jogos:
+
+Funcionalidade para registrar a devolução de jogos pelos clientes, atualizando o status das locações.
+Opções de procurar, alterar, incluir e excluir devoluções, com a opção de imprimir recibo.
+Relatórios e Estatísticas:
+
+Geração de relatórios sobre o acervo de jogos, histórico de locações, clientes mais frequentes, entre outros.
+Metodologia de Desenvolvimento
+O sistema foi desenvolvido com base em práticas de programação orientada a objetos, modularização e reutilização de código. A interface gráfica foi projetada para proporcionar uma experiência de usuário intuitiva e eficiente em todas as funcionalidades do sistema.
+
+Conclusão
+Com a inclusão da gestão de gêneros de jogos e a expansão das funcionalidades de operações de empréstimo e devolução, o sistema demonstra a viabilidade e eficácia do uso de tecnologias como C# Forms e banco de dados para o desenvolvimento de soluções de gestão para locadoras de jogos. Espera-se que o sistema contribua para a melhoria dos processos de gerenciamento e atendimento aos clientes, proporcionando uma experiência mais eficiente e satisfatória para a locadora e seus usuários.
